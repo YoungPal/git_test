@@ -2,7 +2,6 @@
 
 <<<<<<< HEAD
 #define new
-#define new2
 
 
 =======
