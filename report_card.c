@@ -1,9 +1,16 @@
 #include<stdio.h>
 
+<<<<<<< HEAD
 #define new
 #define new2
 
 
+=======
+#define slave_new
+
+
+//local_branch_test
+>>>>>>> slave
 int main()
 {
 	int kor, eng, math;
@@ -20,5 +27,7 @@ int main()
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
 	printf("total : %d\n", sum);
+	
+	printf("test\n");
 	return 0;
 }
