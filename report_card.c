@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+#define new
+#define new2
+
+
 int main()
 {
 	int kor, eng, math;
