@@ -7,6 +7,7 @@
 
 =======
 #define slave_new
+#define master_new
 
 
 //local_branch_test
