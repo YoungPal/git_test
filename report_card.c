@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+#define slave_new
+
+
 //local_branch_test
 int main()
 {
