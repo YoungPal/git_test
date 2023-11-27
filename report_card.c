@@ -8,7 +8,7 @@
 =======
 #define slave_new
 #define master_new
-
+#define slave_new2 //for cancle merge
 
 //local_branch_test
 >>>>>>> slave
